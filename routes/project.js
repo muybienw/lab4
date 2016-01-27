@@ -1,6 +1,7 @@
 /**
  * Created by MuyBien on 1/18/16.
  */
+
 exports.viewProject = function(req, res) {
     // controller code goes here 
 
